@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\me",
+    "\\src\\main\\java\\me\\wolfie",
+    "\\src\\main\\java\\me\\wolfie\\methane",
+    "\\src\\main\\java\\me\\wolfie\\methane\\server",
+    "\\src\\main\\resources",
+    "\\src\\main\\resources\\assets",
+    "\\src\\main\\resources\\assets\\methane",
+    "\\src\\main\\resources\\assets\\methane\\lang"
+  ],
+  "SelectedNode": "\\src\\main\\resources\\fabric.mod.json",
+  "PreviewInSolutionExplorer": false
+}
